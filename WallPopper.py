@@ -1,7 +1,7 @@
 import os
 from cefpython3 import cefpython as cef
 import win32gui
-import win32con
+# import win32con
 import win32api
 import sys
 from configureout import Config
@@ -53,7 +53,7 @@ def main():
     cef.Initialize()
     window_info = cef.WindowInfo()
 
-    progman = win32gui.FindWindow("Progman", None)
+    # progman = win32gui.FindWindow("Progman", None)
     # win32gui.SendMessageTimeout(progman, 0x052C, 0, 0, win32con.SMTO_NORMAL, 1000)
 
     monitor_rects = [i[2] for i in win32api.EnumDisplayMonitors(None, None)]
