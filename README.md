@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Ensure your desired wallpapers are stored in the `wallpapers/` directory.
+1. Default wallpapers are stored in the `wallpapers/` directory.
 
 2. Configure the wallpaper source path by editing `config.json`:
 ```json
