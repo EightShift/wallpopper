@@ -1,6 +1,6 @@
 # WallPopper
 
-WallPopper is a Python application designed to set HTML wallpapers across multiple monitors using CEF (Chromium Embedded Framework) for Windows.
+WallPopper is a Python application designed to set HTML wallpapers across multiple monitors using CEF for Windows.
 
 ## Installation
 
