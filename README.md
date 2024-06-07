@@ -31,6 +31,10 @@ pip install -r requirements.txt
 python WallPopper.py
 ```
 
+## Python Version Compatibility
+
+WallPopper is compatible with Python up to version 3.9. It may not work correctly with newer versions.
+
 ## Future Development
 
 GUI functionality is planned for future updates to enhance user interaction and configuration options.
